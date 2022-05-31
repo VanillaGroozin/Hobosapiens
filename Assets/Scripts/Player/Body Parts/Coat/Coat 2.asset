@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d1b8ca28e2dc8f4ea5b968d404f2889, type: 3}
+  m_Name: Coat 2
+  m_EditorClassIdentifier: 
+  idleAnimationClip: {fileID: 7400000, guid: b0b7c003b02d3444d87c53ed77a7bead, type: 2}
+  lwalkAnimationClip: {fileID: 7400000, guid: 6eaa5f5fea3f6a346bc2ca130e186874, type: 2}
+  rwalkAnimationClip: {fileID: 7400000, guid: ce8331cbfa129324c9c1cd9d27814b33, type: 2}
+  partType: 3

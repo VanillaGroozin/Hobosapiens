@@ -1,0 +1,4710 @@
+fileFormatVersion: 2
+guid: 895e9ef9f8465774f8f04152e1334cb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 501265714801336603
+    second: player_rightwalk_anim_0
+  - first:
+      213: -5105130726970930038
+    second: player_rightwalk_anim_1
+  - first:
+      213: 4586341945762738726
+    second: player_rightwalk_anim_2
+  - first:
+      213: -9186721417125540001
+    second: player_rightwalk_anim_3
+  - first:
+      213: 6411562214044914337
+    second: player_rightwalk_anim_4
+  - first:
+      213: -2046101720132850428
+    second: player_rightwalk_anim_5
+  - first:
+      213: 1221810584034608513
+    second: player_rightwalk_anim_6
+  - first:
+      213: -8952634282758269536
+    second: player_rightwalk_anim_7
+  - first:
+      213: 9011269818396013075
+    second: player_rightwalk_anim_8
+  - first:
+      213: -4090717634000068324
+    second: player_rightwalk_anim_9
+  - first:
+      213: -9113892069992034684
+    second: player_rightwalk_anim_10
+  - first:
+      213: 5319728106473103074
+    second: player_rightwalk_anim_11
+  - first:
+      213: 6766764381112136933
+    second: player_rightwalk_anim_12
+  - first:
+      213: 5565831795588332175
+    second: player_rightwalk_anim_13
+  - first:
+      213: -4192447839909816047
+    second: player_rightwalk_anim_14
+  - first:
+      213: -68166856856568679
+    second: player_rightwalk_anim_15
+  - first:
+      213: 219537273871992323
+    second: player_rightwalk_anim_16
+  - first:
+      213: -495277992305338511
+    second: player_rightwalk_anim_17
+  - first:
+      213: -3234125770632406690
+    second: player_rightwalk_anim_18
+  - first:
+      213: -3013682774304103240
+    second: player_rightwalk_anim_19
+  - first:
+      213: 8738120179266554609
+    second: player_rightwalk_anim_20
+  - first:
+      213: 890112484770298799
+    second: player_rightwalk_anim_21
+  - first:
+      213: -3082562851218619152
+    second: player_rightwalk_anim_22
+  - first:
+      213: -1210973459819786250
+    second: player_rightwalk_anim_23
+  - first:
+      213: -3518718642164296780
+    second: player_rightwalk_anim_24
+  - first:
+      213: -7079555231380830271
+    second: player_rightwalk_anim_25
+  - first:
+      213: 7492879830562336857
+    second: player_rightwalk_anim_26
+  - first:
+      213: 4935587029032918416
+    second: player_rightwalk_anim_27
+  - first:
+      213: 7250849139546111457
+    second: player_rightwalk_anim_28
+  - first:
+      213: -6145723349500595224
+    second: player_rightwalk_anim_29
+  - first:
+      213: -6645084710950881079
+    second: player_rightwalk_anim_30
+  - first:
+      213: 8636173186771935803
+    second: player_rightwalk_anim_31
+  - first:
+      213: 5452007121875421064
+    second: player_rightwalk_anim_32
+  - first:
+      213: 8717528645831905386
+    second: player_rightwalk_anim_33
+  - first:
+      213: 5340236398288306025
+    second: player_rightwalk_anim_34
+  - first:
+      213: -5495361061941302993
+    second: player_rightwalk_anim_35
+  - first:
+      213: 5225472708729409465
+    second: player_rightwalk_anim_36
+  - first:
+      213: 352142522574358963
+    second: player_rightwalk_anim_37
+  - first:
+      213: -3390652738142757472
+    second: player_rightwalk_anim_38
+  - first:
+      213: -8412465847139008942
+    second: player_rightwalk_anim_39
+  - first:
+      213: -6752840254539530980
+    second: player_rightwalk_anim_40
+  - first:
+      213: 5866862620689202992
+    second: player_rightwalk_anim_41
+  - first:
+      213: -7723402169667045581
+    second: player_rightwalk_anim_42
+  - first:
+      213: 366382388559108416
+    second: player_rightwalk_anim_43
+  - first:
+      213: 2185090230846935333
+    second: player_rightwalk_anim_44
+  - first:
+      213: 3769102483149572623
+    second: player_rightwalk_anim_45
+  - first:
+      213: 9120647057048406685
+    second: player_rightwalk_anim_46
+  - first:
+      213: -1761558790454303292
+    second: player_rightwalk_anim_47
+  - first:
+      213: -1083348459943998185
+    second: player_rightwalk_anim_48
+  - first:
+      213: 3169583458297416961
+    second: player_rightwalk_anim_49
+  - first:
+      213: -2873185243271869303
+    second: player_rightwalk_anim_50
+  - first:
+      213: -5588938988472885931
+    second: player_rightwalk_anim_51
+  - first:
+      213: 8288877924020730239
+    second: player_rightwalk_anim_52
+  - first:
+      213: -1518101406074423952
+    second: player_rightwalk_anim_53
+  - first:
+      213: 7347443148343378247
+    second: player_rightwalk_anim_54
+  - first:
+      213: 4597045348879369938
+    second: player_rightwalk_anim_55
+  - first:
+      213: 1571703321698901053
+    second: player_rightwalk_anim_56
+  - first:
+      213: 254228309028824539
+    second: player_rightwalk_anim_57
+  - first:
+      213: 5422616670455031968
+    second: player_rightwalk_anim_58
+  - first:
+      213: 2725057476320838128
+    second: player_rightwalk_anim_59
+  - first:
+      213: -707272666530533265
+    second: player_rightwalk_anim_60
+  - first:
+      213: 2290342467458458920
+    second: player_rightwalk_anim_61
+  - first:
+      213: 5135121026657942590
+    second: player_rightwalk_anim_62
+  - first:
+      213: -4708365668569686417
+    second: player_rightwalk_anim_63
+  - first:
+      213: -6309474584500708458
+    second: player_rightwalk_anim_64
+  - first:
+      213: -8498640243114379485
+    second: player_rightwalk_anim_65
+  - first:
+      213: 4439845952733113069
+    second: player_rightwalk_anim_66
+  - first:
+      213: 5784139949562920999
+    second: player_rightwalk_anim_67
+  - first:
+      213: -2210337362226788434
+    second: player_rightwalk_anim_68
+  - first:
+      213: 6942413933148417596
+    second: player_rightwalk_anim_69
+  - first:
+      213: 2787651956680874707
+    second: player_rightwalk_anim_70
+  - first:
+      213: -3420200935554361212
+    second: player_rightwalk_anim_71
+  - first:
+      213: 4432480377941518446
+    second: player_rightwalk_anim_72
+  - first:
+      213: 3047463808969226947
+    second: player_rightwalk_anim_73
+  - first:
+      213: -5954070675172316603
+    second: player_rightwalk_anim_74
+  - first:
+      213: -1730386146456331530
+    second: player_rightwalk_anim_75
+  - first:
+      213: 6675169997520343890
+    second: player_rightwalk_anim_76
+  - first:
+      213: -3588313375368650651
+    second: player_rightwalk_anim_77
+  - first:
+      213: -2931667014589851471
+    second: player_rightwalk_anim_78
+  - first:
+      213: -8137946022796388850
+    second: player_rightwalk_anim_79
+  - first:
+      213: 7220910821057965406
+    second: player_rightwalk_anim_80
+  - first:
+      213: 1542865806752029253
+    second: player_rightwalk_anim_81
+  - first:
+      213: -7892547363350427664
+    second: player_rightwalk_anim_82
+  - first:
+      213: 5862271320472439026
+    second: player_rightwalk_anim_83
+  - first:
+      213: 1009077145077539150
+    second: player_rightwalk_anim_84
+  - first:
+      213: -4327734137087946570
+    second: player_rightwalk_anim_85
+  - first:
+      213: -9147367696865589455
+    second: player_rightwalk_anim_86
+  - first:
+      213: 4091167559310948923
+    second: player_rightwalk_anim_87
+  - first:
+      213: 8573724933088573562
+    second: player_rightwalk_anim_88
+  - first:
+      213: -7617604562525056654
+    second: player_rightwalk_anim_89
+  - first:
+      213: -8264611111447174475
+    second: player_rightwalk_anim_90
+  - first:
+      213: -2856919905416238953
+    second: player_rightwalk_anim_91
+  - first:
+      213: 5817879693521442630
+    second: player_rightwalk_anim_92
+  - first:
+      213: 8053398214790200009
+    second: player_rightwalk_anim_93
+  - first:
+      213: 5743453930100632844
+    second: player_rightwalk_anim_94
+  - first:
+      213: 6151808675722631966
+    second: player_rightwalk_anim_95
+  - first:
+      213: 4298321173630360123
+    second: player_rightwalk_anim_96
+  - first:
+      213: 5363814734265408806
+    second: player_rightwalk_anim_97
+  - first:
+      213: 4752927427159244445
+    second: player_rightwalk_anim_98
+  - first:
+      213: 7312125579463074488
+    second: player_rightwalk_anim_99
+  - first:
+      213: 7889983119933516272
+    second: player_rightwalk_anim_100
+  - first:
+      213: -5419082579153660501
+    second: player_rightwalk_anim_101
+  - first:
+      213: 7654000783054647285
+    second: player_rightwalk_anim_102
+  - first:
+      213: -465679417249432629
+    second: player_rightwalk_anim_103
+  - first:
+      213: 5707791265522260586
+    second: player_rightwalk_anim_104
+  - first:
+      213: 3010213371240506675
+    second: player_rightwalk_anim_105
+  - first:
+      213: 946394319271335363
+    second: player_rightwalk_anim_106
+  - first:
+      213: -4174987106696713613
+    second: player_rightwalk_anim_107
+  - first:
+      213: 8939231976863799136
+    second: player_rightwalk_anim_108
+  - first:
+      213: 3645194807063838656
+    second: player_rightwalk_anim_109
+  - first:
+      213: 2387872623727623417
+    second: player_rightwalk_anim_110
+  - first:
+      213: -7356467595152026822
+    second: player_rightwalk_anim_111
+  - first:
+      213: 1602911097389090087
+    second: player_rightwalk_anim_112
+  - first:
+      213: 7910512512096247781
+    second: player_rightwalk_anim_113
+  - first:
+      213: 5692811535634799354
+    second: player_rightwalk_anim_114
+  - first:
+      213: 9058187645815284086
+    second: player_rightwalk_anim_115
+  - first:
+      213: -128613603716671312
+    second: player_rightwalk_anim_116
+  - first:
+      213: 4284986933612384803
+    second: player_rightwalk_anim_117
+  - first:
+      213: 2620189599839389371
+    second: player_rightwalk_anim_118
+  - first:
+      213: -8667406697366095999
+    second: player_rightwalk_anim_119
+  - first:
+      213: -3318593721852458606
+    second: player_rightwalk_anim_120
+  - first:
+      213: -6750589246173328782
+    second: player_rightwalk_anim_121
+  - first:
+      213: 7348399219331618661
+    second: player_rightwalk_anim_122
+  - first:
+      213: -5501464264659437941
+    second: player_rightwalk_anim_123
+  - first:
+      213: -6262199374494494621
+    second: player_rightwalk_anim_124
+  - first:
+      213: -8031458440716624631
+    second: player_rightwalk_anim_125
+  - first:
+      213: -8240351835528797681
+    second: player_rightwalk_anim_126
+  - first:
+      213: 9087443183571406177
+    second: player_rightwalk_anim_127
+  - first:
+      213: -3881689399325123978
+    second: player_rightwalk_anim_128
+  - first:
+      213: 1068216925353437050
+    second: player_rightwalk_anim_129
+  - first:
+      213: -2924951015761256124
+    second: player_rightwalk_anim_130
+  - first:
+      213: 2372048844457445461
+    second: player_rightwalk_anim_131
+  - first:
+      213: 5917899652134850569
+    second: player_rightwalk_anim_132
+  - first:
+      213: -5448982331428892713
+    second: player_rightwalk_anim_133
+  - first:
+      213: -8217841785877221503
+    second: player_rightwalk_anim_134
+  - first:
+      213: 4972844460282089327
+    second: player_rightwalk_anim_135
+  - first:
+      213: 9094848429884640783
+    second: player_rightwalk_anim_136
+  - first:
+      213: -8206177812765692443
+    second: player_rightwalk_anim_137
+  - first:
+      213: -8440352309735548263
+    second: player_rightwalk_anim_138
+  - first:
+      213: 4938055475367567733
+    second: player_rightwalk_anim_139
+  - first:
+      213: -1823031399674692321
+    second: player_rightwalk_anim_140
+  - first:
+      213: -6906065378587013246
+    second: player_rightwalk_anim_141
+  - first:
+      213: 2245281059877562487
+    second: player_rightwalk_anim_142
+  - first:
+      213: 3312085406127268899
+    second: player_rightwalk_anim_143
+  - first:
+      213: 4255316432839385889
+    second: player_rightwalk_anim_144
+  - first:
+      213: -2542386531806490624
+    second: player_rightwalk_anim_145
+  - first:
+      213: -7970777335880794056
+    second: player_rightwalk_anim_146
+  - first:
+      213: 4982330305624917559
+    second: player_rightwalk_anim_147
+  - first:
+      213: 5205578012605780233
+    second: player_rightwalk_anim_148
+  - first:
+      213: 2458082638196932007
+    second: player_rightwalk_anim_149
+  - first:
+      213: 230754725361994519
+    second: player_rightwalk_anim_150
+  - first:
+      213: -4535304841227984755
+    second: player_rightwalk_anim_151
+  - first:
+      213: -8327884982581209114
+    second: player_rightwalk_anim_152
+  - first:
+      213: -3325066456505873109
+    second: player_rightwalk_anim_153
+  - first:
+      213: -3038924391717980360
+    second: player_rightwalk_anim_154
+  - first:
+      213: -5380137901710028043
+    second: player_rightwalk_anim_155
+  - first:
+      213: -4867081841246075350
+    second: player_rightwalk_anim_156
+  - first:
+      213: -3733199281174737297
+    second: player_rightwalk_anim_157
+  - first:
+      213: -2134604888038332445
+    second: player_rightwalk_anim_158
+  - first:
+      213: -8372665923414331673
+    second: player_rightwalk_anim_159
+  - first:
+      213: -6512828861555274185
+    second: player_rightwalk_anim_160
+  - first:
+      213: 8587671004024223573
+    second: player_rightwalk_anim_161
+  - first:
+      213: 5597667491141785045
+    second: player_rightwalk_anim_162
+  - first:
+      213: -7532659594746214332
+    second: player_rightwalk_anim_163
+  - first:
+      213: -7337339608651843919
+    second: player_rightwalk_anim_164
+  - first:
+      213: 6981416434939491146
+    second: player_rightwalk_anim_165
+  - first:
+      213: 6159688388857074867
+    second: player_rightwalk_anim_166
+  - first:
+      213: -5093931673805464000
+    second: player_rightwalk_anim_167
+  - first:
+      213: -2370542050276092928
+    second: player_rightwalk_anim_168
+  - first:
+      213: -6737437533567556401
+    second: player_rightwalk_anim_169
+  - first:
+      213: 4960859243868979883
+    second: player_rightwalk_anim_170
+  - first:
+      213: -2547989666992917327
+    second: player_rightwalk_anim_171
+  - first:
+      213: -8110894125368479752
+    second: player_rightwalk_anim_172
+  - first:
+      213: -2880735188199209645
+    second: player_rightwalk_anim_173
+  - first:
+      213: 5755130007231266673
+    second: player_rightwalk_anim_174
+  - first:
+      213: -1926769276109902084
+    second: player_rightwalk_anim_175
+  - first:
+      213: 8844033667015477975
+    second: player_rightwalk_anim_176
+  - first:
+      213: -4819463659080400141
+    second: player_rightwalk_anim_177
+  - first:
+      213: -7246336860299652596
+    second: player_rightwalk_anim_178
+  - first:
+      213: 6417050777502987594
+    second: player_rightwalk_anim_179
+  - first:
+      213: 4088174287597213626
+    second: player_rightwalk_anim_180
+  - first:
+      213: 3840101550993492958
+    second: player_rightwalk_anim_181
+  - first:
+      213: 8310132872458819457
+    second: player_rightwalk_anim_182
+  - first:
+      213: 8854348796918090999
+    second: player_rightwalk_anim_183
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_rightwalk_anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11e0d4038ad4f600800000000000000
+      internalID: 501265714801336603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 704
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c47f6e6aee629b0800000000000000
+      internalID: -5105130726970930038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62279af33b5f5af30800000000000000
+      internalID: 4586341945762738726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 704
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f42c16b85328080800000000000000
+      internalID: -9186721417125540001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2d67f1dd17af850800000000000000
+      internalID: 6411562214044914337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 704
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d6a258359ca93e0800000000000000
+      internalID: -2046101720132850428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1850234b04eb4f010800000000000000
+      internalID: 1221810584034608513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 704
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5953c8d8ad1c380800000000000000
+      internalID: -8952634282758269536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31271b4f7267e0d70800000000000000
+      internalID: 9011269818396013075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 672
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11eff44cf9da37c0800000000000000
+      internalID: -4090717634000068324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e00e62373f48180800000000000000
+      internalID: -9113892069992034684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee9df7178873d940800000000000000
+      internalID: 5319728106473103074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e474fe4a5068ed50800000000000000
+      internalID: 6766764381112136933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 672
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8afd9f678ecd3d40800000000000000
+      internalID: 5565831795588332175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11952d2f6ee61d5c0800000000000000
+      internalID: -4192447839909816047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 672
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cfb97da92dd0ff0800000000000000
+      internalID: -68166856856568679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3060918ccf3fb0300800000000000000
+      internalID: 219537273871992323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17752934a4b6029f0800000000000000
+      internalID: -495277992305338511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59d48a2fb31e13d0800000000000000
+      internalID: -3234125770632406690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4e3e3eb7f3d26d0800000000000000
+      internalID: -3013682774304103240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa0bd9a10a044970800000000000000
+      internalID: 8738120179266554609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabbfd0c6905a5c00800000000000000
+      internalID: 890112484770298799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f48c4f3b698835d0800000000000000
+      internalID: -3082562851218619152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff0407ed02c13fe0800000000000000
+      internalID: -1210973459819786250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b39045b9000b2fc0800000000000000
+      internalID: -3518718642164296780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c789c1b60e50cd90800000000000000
+      internalID: -7079555231380830271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9507b55c18e0cf760800000000000000
+      internalID: 7492879830562336857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d5887c04abe7440800000000000000
+      internalID: 4935587029032918416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edb79230e030a460800000000000000
+      internalID: 7250849139546111457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e37131dc2106baa0800000000000000
+      internalID: -6145723349500595224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8b46d99aae7c3a0800000000000000
+      internalID: -6645084710950881079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b326b48c1c9d9d770800000000000000
+      internalID: 8636173186771935803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887c844679b69ab40800000000000000
+      internalID: 5452007121875421064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a605a1ead12eaf870800000000000000
+      internalID: 8717528645831905386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ff590e5b45c1a40800000000000000
+      internalID: 5340236398288306025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29a976da3e8cb3b0800000000000000
+      internalID: -5495361061941302993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf805b2ebb948840800000000000000
+      internalID: 5225472708729409465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9ca5032cf03e400800000000000000
+      internalID: 352142522574358963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad9b429c4bf1f0d0800000000000000
+      internalID: -3390652738142757472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 576
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7c2812eae04b80800000000000000
+      internalID: -8412465847139008942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d763b01971942a0800000000000000
+      internalID: -6752840254539530980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f723438784b6150800000000000000
+      internalID: 5866862620689202992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337b383a5a6f0d490800000000000000
+      internalID: -7723402169667045581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049560a57d6a51500800000000000000
+      internalID: 366382388559108416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521dec3ecfff25e10800000000000000
+      internalID: 2185090230846935333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a4c262dba8e4430800000000000000
+      internalID: 3769102483149572623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_46
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a0515dc2c039e70800000000000000
+      internalID: 9120647057048406685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_47
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 544
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5210cfc9fad87e0800000000000000
+      internalID: -1761558790454303292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d4215c05c27f0f0800000000000000
+      internalID: -1083348459943998185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d85c5bc5f9cfb20800000000000000
+      internalID: 3169583458297416961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cc2e87e356028d0800000000000000
+      internalID: -2873185243271869303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d1eb8f9991072b0800000000000000
+      internalID: -5588938988472885931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7935d73e82080370800000000000000
+      internalID: 8288877924020730239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075b9ed70de9eeae0800000000000000
+      internalID: -1518101406074423952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74182607d9c57f560800000000000000
+      internalID: 7347443148343378247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 512
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6015c736cfbcf30800000000000000
+      internalID: 4597045348879369938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c1a2608dfcfc510800000000000000
+      internalID: 1571703321698901053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5e283dc43378300800000000000000
+      internalID: 254228309028824539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8659ba121014b40800000000000000
+      internalID: 5422616670455031968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f140a4365951d520800000000000000
+      internalID: 2725057476320838128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60ba10d1434f26f0800000000000000
+      internalID: -707272666530533265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8256ad2e65ee8cf10800000000000000
+      internalID: 2290342467458458920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cf590ed5d934740800000000000000
+      internalID: 5135121026657942590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 480
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e5244de5688aeb0800000000000000
+      internalID: -4708365668569686417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bda7f5b4e3078a0800000000000000
+      internalID: -6309474584500708458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327f3530ab3ce0a80800000000000000
+      internalID: -8498640243114379485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaec16ee508d9d30800000000000000
+      internalID: 4439845952733113069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72008d073a4654050800000000000000
+      internalID: 5784139949562920999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c2b241ed4351e0800000000000000
+      internalID: -2210337362226788434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ea80190b8685060800000000000000
+      internalID: 6942413933148417596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_70
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dad26b5faabfa620800000000000000
+      internalID: 2787651956680874707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d2dfbe510980d0800000000000000
+      internalID: -3420200935554361212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68e7116b65538d30800000000000000
+      internalID: 4432480377941518446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca38772034ca4a20800000000000000
+      internalID: 3047463808969226947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aa8c65444ee5da0800000000000000
+      internalID: -5954070675172316603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa9630c7fe6cf7e0800000000000000
+      internalID: -1730386146456331530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2539b850fb7f2ac50800000000000000
+      internalID: 6675169997520343890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5606e5e2fffb33ec0800000000000000
+      internalID: -3588313375368650651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b854a30260a057d0800000000000000
+      internalID: -2931667014589851471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 416
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e061bed7535301f80800000000000000
+      internalID: -8137946022796388850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d2feb3224d53460800000000000000
+      internalID: 7220910821057965406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a1d8bd64c596510800000000000000
+      internalID: 1542865806752029253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f74d825df9087290800000000000000
+      internalID: -7892547363350427664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f848b1d4b8fa5150800000000000000
+      internalID: 5862271320472439026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41ef4f2156f00e00800000000000000
+      internalID: 1009077145077539150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_85
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b09a8c4bbcc0f3c0800000000000000
+      internalID: -4327734137087946570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13781766b850e0180800000000000000
+      internalID: -9147367696865589455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ab451283fb6c830800000000000000
+      internalID: 4091167559310948923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7877aea66dfbf670800000000000000
+      internalID: 8573724933088573562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2719c4b9205d84690800000000000000
+      internalID: -7617604562525056654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2e17f5bf33e4d80800000000000000
+      internalID: -8264611111447174475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7982ced8b7e2a58d0800000000000000
+      internalID: -2856919905416238953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647dd4eb1c24db050800000000000000
+      internalID: 5817879693521442630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_93
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cab553f10b63cf60800000000000000
+      internalID: 8053398214790200009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d28775be8d4bf40800000000000000
+      internalID: 5743453930100632844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_95
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b1d9a956d9f5550800000000000000
+      internalID: 6151808675722631966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a17cc7554b6ab30800000000000000
+      internalID: 4298321173630360123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d55e40519107a40800000000000000
+      internalID: 5363814734265408806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9eb90b105ac5f140800000000000000
+      internalID: 4752927427159244445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2a1f42973e97560800000000000000
+      internalID: 7312125579463074488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9277b38d9de7d60800000000000000
+      internalID: 7889983119933516272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_101
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d9051b1d8bc4b0800000000000000
+      internalID: -5419082579153660501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffa888d829783a60800000000000000
+      internalID: 7654000783054647285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_103
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbf2ab89039989f0800000000000000
+      internalID: -465679417249432629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a18813ae5263f40800000000000000
+      internalID: 5707791265522260586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335ebe2cc1d66c920800000000000000
+      internalID: 3010213371240506675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_106
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c59d918e94422d00800000000000000
+      internalID: 946394319271335363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aa183b8577f06c0800000000000000
+      internalID: -4174987106696713613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_108
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06797c1fe188e0c70800000000000000
+      internalID: 8939231976863799136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf732c2d55569230800000000000000
+      internalID: 3645194807063838656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc3a22ff7d632120800000000000000
+      internalID: 2387872623727623417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_111
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a339a4dc2b398e990800000000000000
+      internalID: -7356467595152026822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7258866862fae3610800000000000000
+      internalID: 1602911097389090087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef97c2d739c7cd60800000000000000
+      internalID: 7910512512096247781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_114
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa12ca0eede00f40800000000000000
+      internalID: 5692811535634799354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671e6a9eba525bd70800000000000000
+      internalID: 9058187645815284086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b85f2ddb92173ef0800000000000000
+      internalID: -128613603716671312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_117
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322182dc9e4577b30800000000000000
+      internalID: 4284986933612384803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb689960f88cc5420800000000000000
+      internalID: 2620189599839389371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187f6a7d78f27b780800000000000000
+      internalID: -8667406697366095999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2998427b79cf1f1d0800000000000000
+      internalID: -3318593721852458606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a4445c8d61152a0800000000000000
+      internalID: -6750589246173328782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567d4001822caf560800000000000000
+      internalID: 7348399219331618661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_123
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86f778366fd6a3b0800000000000000
+      internalID: -5501464264659437941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3601592f8d23819a0800000000000000
+      internalID: -6262199374494494621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_125
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dd5c4c9178a8090800000000000000
+      internalID: -8031458440716624631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0261133aa364ad80800000000000000
+      internalID: -8240351835528797681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d81599d651d1e70800000000000000
+      internalID: 9087443183571406177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a93d0be08712ac0800000000000000
+      internalID: -3881689399325123978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7760ca42a113de00800000000000000
+      internalID: 1068216925353437050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441e1285c8c7867d0800000000000000
+      internalID: -2924951015761256124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_131
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55803cb3bd53be020800000000000000
+      internalID: 2372048844457445461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d7e5116a902250800000000000000
+      internalID: 5917899652134850569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_133
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df0dc380735164b0800000000000000
+      internalID: -5448982331428892713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_134
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f2d6c8f6c54fd80800000000000000
+      internalID: -8217841785877221503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_135
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f026a70b7130540800000000000000
+      internalID: 4972844460282089327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e0b4dd574673e70800000000000000
+      internalID: 9094848429884640783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_137
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eda86ae1cccd1e80800000000000000
+      internalID: -8206177812765692443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_138
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a901f0b48ddda80800000000000000
+      internalID: -8440352309735548263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_139
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571e47aba4f778440800000000000000
+      internalID: 4938055475367567733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_140
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1db100d99a43b6e0800000000000000
+      internalID: -1823031399674692321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_141
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f82b9c02ab820a0800000000000000
+      internalID: -6906065378587013246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_142
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7782aea5a37d82f10800000000000000
+      internalID: 2245281059877562487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_143
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324a8f1f024e6fd20800000000000000
+      internalID: 3312085406127268899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123264200cbed0b30800000000000000
+      internalID: 4255316432839385889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000dfe16be0a7bcd0800000000000000
+      internalID: -2542386531806490624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_146
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83047177e3c126190800000000000000
+      internalID: -7970777335880794056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_147
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736cf64f30bc42540800000000000000
+      internalID: 4982330305624917559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90193f34f9ded3840800000000000000
+      internalID: 5205578012605780233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_149
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad784ec22ddc1220800000000000000
+      internalID: 2458082638196932007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_150
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bc17b333ec33300800000000000000
+      internalID: 230754725361994519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_151
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d802f76a64c5f01c0800000000000000
+      internalID: -4535304841227984755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7dfea3bb86d6c80800000000000000
+      internalID: -8327884982581209114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_153
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d866dbcadfad1d0800000000000000
+      internalID: -3325066456505873109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837316cdd5293d5d0800000000000000
+      internalID: -3038924391717980360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_155
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f255f56519e555b0800000000000000
+      internalID: -5380137901710028043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2606cf2ad6a47cb0800000000000000
+      internalID: -4867081841246075350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_157
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e06d97803013cc0800000000000000
+      internalID: -3733199281174737297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_158
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7a9a8f92c5062e0800000000000000
+      internalID: -2134604888038332445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_159
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeeed3f3b05ecb80800000000000000
+      internalID: -8372665923414331673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e061828a8cd95a0800000000000000
+      internalID: -6512828861555274185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55739ca57498d2770800000000000000
+      internalID: 8587671004024223573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_162
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5124cece8eead40800000000000000
+      internalID: 5597667491141785045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_163
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448c631220e967790800000000000000
+      internalID: -7532659594746214332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_164
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b637e530888c2a90800000000000000
+      internalID: -7337339608651843919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_165
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4374a92249f2e060800000000000000
+      internalID: 6981416434939491146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_166
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b49ce844fb9b7550800000000000000
+      internalID: 6159688388857074867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_167
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ed6b8a128be49b0800000000000000
+      internalID: -5093931673805464000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004da20a0942a1fd0800000000000000
+      internalID: -2370542050276092928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_169
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4625b7240df72a0800000000000000
+      internalID: -6737437533567556401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba20683d23388d440800000000000000
+      internalID: 4960859243868979883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_171
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4758fc5e8b3acd0800000000000000
+      internalID: -2547989666992917327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffeb9e24c0507f80800000000000000
+      internalID: -8110894125368479752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_173
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3550b6feb929508d0800000000000000
+      internalID: -2880735188199209645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ff535ef345edf40800000000000000
+      internalID: 5755130007231266673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_175
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe25554d8db245e0800000000000000
+      internalID: -1926769276109902084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da8d0033c15cba70800000000000000
+      internalID: 8844033667015477975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_177
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2cb903653dd1db0800000000000000
+      internalID: -4819463659080400141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_178
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02150fa407df6b90800000000000000
+      internalID: -7246336860299652596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_179
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45b5b2eea1fd0950800000000000000
+      internalID: 6417050777502987594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_180
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab71e10cadc1cb830800000000000000
+      internalID: 4088174287597213626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_181
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbc460d308ca4530800000000000000
+      internalID: 3840101550993492958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_182
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187543b81d5835370800000000000000
+      internalID: 8310132872458819457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_rightwalk_anim_183
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcc5b58157f0ea70800000000000000
+      internalID: 8854348796918090999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      player_rightwalk_anim_44: 2185090230846935333
+      player_rightwalk_anim_13: 5565831795588332175
+      player_rightwalk_anim_104: 5707791265522260586
+      player_rightwalk_anim_21: 890112484770298799
+      player_rightwalk_anim_85: -4327734137087946570
+      player_rightwalk_anim_109: 3645194807063838656
+      player_rightwalk_anim_88: 8573724933088573562
+      player_rightwalk_anim_97: 5363814734265408806
+      player_rightwalk_anim_74: -5954070675172316603
+      player_rightwalk_anim_0: 501265714801336603
+      player_rightwalk_anim_149: 2458082638196932007
+      player_rightwalk_anim_58: 5422616670455031968
+      player_rightwalk_anim_179: 6417050777502987594
+      player_rightwalk_anim_59: 2725057476320838128
+      player_rightwalk_anim_32: 5452007121875421064
+      player_rightwalk_anim_162: 5597667491141785045
+      player_rightwalk_anim_103: -465679417249432629
+      player_rightwalk_anim_1: -5105130726970930038
+      player_rightwalk_anim_33: 8717528645831905386
+      player_rightwalk_anim_123: -5501464264659437941
+      player_rightwalk_anim_10: -9113892069992034684
+      player_rightwalk_anim_92: 5817879693521442630
+      player_rightwalk_anim_84: 1009077145077539150
+      player_rightwalk_anim_155: -5380137901710028043
+      player_rightwalk_anim_6: 1221810584034608513
+      player_rightwalk_anim_171: -2547989666992917327
+      player_rightwalk_anim_41: 5866862620689202992
+      player_rightwalk_anim_139: 4938055475367567733
+      player_rightwalk_anim_158: -2134604888038332445
+      player_rightwalk_anim_111: -7356467595152026822
+      player_rightwalk_anim_124: -6262199374494494621
+      player_rightwalk_anim_25: -7079555231380830271
+      player_rightwalk_anim_143: 3312085406127268899
+      player_rightwalk_anim_51: -5588938988472885931
+      player_rightwalk_anim_105: 3010213371240506675
+      player_rightwalk_anim_52: 8288877924020730239
+      player_rightwalk_anim_127: 9087443183571406177
+      player_rightwalk_anim_131: 2372048844457445461
+      player_rightwalk_anim_178: -7246336860299652596
+      player_rightwalk_anim_116: -128613603716671312
+      player_rightwalk_anim_108: 8939231976863799136
+      player_rightwalk_anim_67: 5784139949562920999
+      player_rightwalk_anim_160: -6512828861555274185
+      player_rightwalk_anim_89: -7617604562525056654
+      player_rightwalk_anim_9: -4090717634000068324
+      player_rightwalk_anim_46: 9120647057048406685
+      player_rightwalk_anim_115: 9058187645815284086
+      player_rightwalk_anim_69: 6942413933148417596
+      player_rightwalk_anim_125: -8031458440716624631
+      player_rightwalk_anim_94: 5743453930100632844
+      player_rightwalk_anim_148: 5205578012605780233
+      player_rightwalk_anim_86: -9147367696865589455
+      player_rightwalk_anim_31: 8636173186771935803
+      player_rightwalk_anim_95: 6151808675722631966
+      player_rightwalk_anim_36: 5225472708729409465
+      player_rightwalk_anim_128: -3881689399325123978
+      player_rightwalk_anim_183: 8854348796918090999
+      player_rightwalk_anim_11: 5319728106473103074
+      player_rightwalk_anim_27: 4935587029032918416
+      player_rightwalk_anim_170: 4960859243868979883
+      player_rightwalk_anim_165: 6981416434939491146
+      player_rightwalk_anim_81: 1542865806752029253
+      player_rightwalk_anim_14: -4192447839909816047
+      player_rightwalk_anim_24: -3518718642164296780
+      player_rightwalk_anim_66: 4439845952733113069
+      player_rightwalk_anim_71: -3420200935554361212
+      player_rightwalk_anim_75: -1730386146456331530
+      player_rightwalk_anim_91: -2856919905416238953
+      player_rightwalk_anim_57: 254228309028824539
+      player_rightwalk_anim_53: -1518101406074423952
+      player_rightwalk_anim_28: 7250849139546111457
+      player_rightwalk_anim_120: -3318593721852458606
+      player_rightwalk_anim_114: 5692811535634799354
+      player_rightwalk_anim_23: -1210973459819786250
+      player_rightwalk_anim_182: 8310132872458819457
+      player_rightwalk_anim_62: 5135121026657942590
+      player_rightwalk_anim_113: 7910512512096247781
+      player_rightwalk_anim_77: -3588313375368650651
+      player_rightwalk_anim_156: -4867081841246075350
+      player_rightwalk_anim_133: -5448982331428892713
+      player_rightwalk_anim_40: -6752840254539530980
+      player_rightwalk_anim_87: 4091167559310948923
+      player_rightwalk_anim_151: -4535304841227984755
+      player_rightwalk_anim_5: -2046101720132850428
+      player_rightwalk_anim_141: -6906065378587013246
+      player_rightwalk_anim_147: 4982330305624917559
+      player_rightwalk_anim_132: 5917899652134850569
+      player_rightwalk_anim_65: -8498640243114379485
+      player_rightwalk_anim_98: 4752927427159244445
+      player_rightwalk_anim_12: 6766764381112136933
+      player_rightwalk_anim_60: -707272666530533265
+      player_rightwalk_anim_78: -2931667014589851471
+      player_rightwalk_anim_154: -3038924391717980360
+      player_rightwalk_anim_119: -8667406697366095999
+      player_rightwalk_anim_70: 2787651956680874707
+      player_rightwalk_anim_138: -8440352309735548263
+      player_rightwalk_anim_145: -2542386531806490624
+      player_rightwalk_anim_100: 7889983119933516272
+      player_rightwalk_anim_26: 7492879830562336857
+      player_rightwalk_anim_7: -8952634282758269536
+      player_rightwalk_anim_126: -8240351835528797681
+      player_rightwalk_anim_136: 9094848429884640783
+      player_rightwalk_anim_150: 230754725361994519
+      player_rightwalk_anim_55: 4597045348879369938
+      player_rightwalk_anim_68: -2210337362226788434
+      player_rightwalk_anim_38: -3390652738142757472
+      player_rightwalk_anim_8: 9011269818396013075
+      player_rightwalk_anim_2: 4586341945762738726
+      player_rightwalk_anim_15: -68166856856568679
+      player_rightwalk_anim_177: -4819463659080400141
+      player_rightwalk_anim_47: -1761558790454303292
+      player_rightwalk_anim_172: -8110894125368479752
+      player_rightwalk_anim_144: 4255316432839385889
+      player_rightwalk_anim_30: -6645084710950881079
+      player_rightwalk_anim_101: -5419082579153660501
+      player_rightwalk_anim_90: -8264611111447174475
+      player_rightwalk_anim_180: 4088174287597213626
+      player_rightwalk_anim_73: 3047463808969226947
+      player_rightwalk_anim_18: -3234125770632406690
+      player_rightwalk_anim_121: -6750589246173328782
+      player_rightwalk_anim_166: 6159688388857074867
+      player_rightwalk_anim_3: -9186721417125540001
+      player_rightwalk_anim_50: -2873185243271869303
+      player_rightwalk_anim_80: 7220910821057965406
+      player_rightwalk_anim_142: 2245281059877562487
+      player_rightwalk_anim_16: 219537273871992323
+      player_rightwalk_anim_48: -1083348459943998185
+      player_rightwalk_anim_175: -1926769276109902084
+      player_rightwalk_anim_17: -495277992305338511
+      player_rightwalk_anim_4: 6411562214044914337
+      player_rightwalk_anim_117: 4284986933612384803
+      player_rightwalk_anim_102: 7654000783054647285
+      player_rightwalk_anim_79: -8137946022796388850
+      player_rightwalk_anim_96: 4298321173630360123
+      player_rightwalk_anim_35: -5495361061941302993
+      player_rightwalk_anim_54: 7347443148343378247
+      player_rightwalk_anim_34: 5340236398288306025
+      player_rightwalk_anim_168: -2370542050276092928
+      player_rightwalk_anim_99: 7312125579463074488
+      player_rightwalk_anim_45: 3769102483149572623
+      player_rightwalk_anim_22: -3082562851218619152
+      player_rightwalk_anim_157: -3733199281174737297
+      player_rightwalk_anim_122: 7348399219331618661
+      player_rightwalk_anim_173: -2880735188199209645
+      player_rightwalk_anim_174: 5755130007231266673
+      player_rightwalk_anim_112: 1602911097389090087
+      player_rightwalk_anim_106: 946394319271335363
+      player_rightwalk_anim_37: 352142522574358963
+      player_rightwalk_anim_63: -4708365668569686417
+      player_rightwalk_anim_76: 6675169997520343890
+      player_rightwalk_anim_130: -2924951015761256124
+      player_rightwalk_anim_152: -8327884982581209114
+      player_rightwalk_anim_140: -1823031399674692321
+      player_rightwalk_anim_107: -4174987106696713613
+      player_rightwalk_anim_129: 1068216925353437050
+      player_rightwalk_anim_163: -7532659594746214332
+      player_rightwalk_anim_61: 2290342467458458920
+      player_rightwalk_anim_146: -7970777335880794056
+      player_rightwalk_anim_19: -3013682774304103240
+      player_rightwalk_anim_135: 4972844460282089327
+      player_rightwalk_anim_169: -6737437533567556401
+      player_rightwalk_anim_134: -8217841785877221503
+      player_rightwalk_anim_43: 366382388559108416
+      player_rightwalk_anim_181: 3840101550993492958
+      player_rightwalk_anim_64: -6309474584500708458
+      player_rightwalk_anim_49: 3169583458297416961
+      player_rightwalk_anim_164: -7337339608651843919
+      player_rightwalk_anim_83: 5862271320472439026
+      player_rightwalk_anim_20: 8738120179266554609
+      player_rightwalk_anim_176: 8844033667015477975
+      player_rightwalk_anim_153: -3325066456505873109
+      player_rightwalk_anim_159: -8372665923414331673
+      player_rightwalk_anim_167: -5093931673805464000
+      player_rightwalk_anim_82: -7892547363350427664
+      player_rightwalk_anim_110: 2387872623727623417
+      player_rightwalk_anim_39: -8412465847139008942
+      player_rightwalk_anim_72: 4432480377941518446
+      player_rightwalk_anim_118: 2620189599839389371
+      player_rightwalk_anim_29: -6145723349500595224
+      player_rightwalk_anim_137: -8206177812765692443
+      player_rightwalk_anim_42: -7723402169667045581
+      player_rightwalk_anim_93: 8053398214790200009
+      player_rightwalk_anim_56: 1571703321698901053
+      player_rightwalk_anim_161: 8587671004024223573
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
